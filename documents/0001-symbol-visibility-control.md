@@ -1,6 +1,6 @@
 - Feature Name: symbol-visibility-control
 - Start Date: 2026-05-17
-- TSD PR: [ant-pl/tsd#0002](https://github.com/ant-pl/tsd/pull/0002)
+- TSD PR: [ant-pl/tsd#0001](https://github.com/ant-pl/tsd/pull/0002)
 
 ## 摘要
 [summary]: #摘要
